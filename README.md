@@ -78,6 +78,6 @@ Proyecto de análisis exploratorio orientado a negocio.
 ---
 
 ## 📬 Contacto
-- LinkedIn: *linkedin.com/in/sebastián-mauricio-núñez*  
+- LinkedIn: *www.linkedin.com/in/sebastián-mauricio-núñez*  
 - Email: *sebastian.mauricio.nunez@gmail.com*
 
