@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hola, soy Sebastián Núñez
 
-<!--
-**Sebastian2nunez/Sebastian2nunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Licenciado en Física**  
+📊 **Data Scientist | Machine Learning**  
+📍 Chile | Disponible para trabajo remoto
 
-Here are some ideas to get you started:
+Soy Licenciado en Física con foco en **ciencia de datos, modelamiento estadístico y machine learning**.  
+Me interesa aplicar métodos cuantitativos rigurosos a **problemas reales**, tanto en contextos de negocio como experimentales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Áreas de interés
+- Ciencia de Datos & Machine Learning  
+- Modelamiento estadístico y regresión  
+- Series de tiempo y forecasting  
+- Análisis cuantitativo  
+- ML aplicado a datos reales
+
+---
+
+## 🛠️ Habilidades técnicas
+
+**Lenguajes y herramientas**
+- Python (pandas, numpy, scipy)  
+- SQL  
+- Jupyter Notebook  
+
+**Machine Learning**
+- Scikit-learn  
+- Gradient Boosting  
+- Regresión lineal y no lineal  
+- Evaluación de modelos (R², MAE, RMSE)
+
+**Análisis y visualización**
+- Matplotlib, Seaborn, Plotly  
+- Limpieza de datos y feature engineering  
+
+**Otros**
+- Web scraping  
+- Análisis de datos experimentales  
+- Reproducibilidad y documentación
+
+---
+
+## 📌 Proyectos destacados
+
+### 🏠 Predicción de Precios Inmobiliarios — Región de Valparaíso
+Sistema de ML para predicción de precios inmobiliarios usando datos obtenidos por web scraping.
+
+- Pipeline completo: scraping → limpieza → features → modelado  
+- Gradient Boosting con **R² ≈ 0.67**  
+- Datos reales con ruido y análisis crítico del modelo
+
+🔗 https://github.com/Sebastian2nunez/Prediccion-Precios-Inmobiliarios-de-la-Region-Valparaiso
+
+---
+
+### 🔬 Calibración de Sensor Fotodiodo mediante Regresión No Lineal
+Proyecto de calibración experimental combinando física y modelamiento estadístico.
+
+- Regresión no lineal aplicada a datos experimentales  
+- Interpretación física de parámetros  
+- Enfoque científico y reproducible
+
+🔗 https://github.com/Sebastian2nunez/Photodiode-Sensor-Calibration-via-Non-Linear-Regression
+
+---
+
+### 📊 Análisis de Datos de Ventas
+Proyecto de análisis exploratorio orientado a negocio.
+
+- Limpieza de datos  
+- Visualización de tendencias  
+- Extracción de insights
+
+🔗 https://github.com/Sebastian2nunez/Ventas
+
+---
+
+## 📬 Contacto
+- LinkedIn: *(agrega tu enlace aquí)*  
+- Email: *(opcional)*
+
