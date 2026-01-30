@@ -51,7 +51,7 @@ Sistema de ML para predicción de precios inmobiliarios usando datos obtenidos p
 - Gradient Boosting con **R² ≈ 0.67**  
 - Datos reales con ruido y análisis crítico del modelo
 
-🔗 https://github.com/Sebastian2nunez/Prediccion-Precios-Inmobiliarios-de-la-Region-Valparaiso.
+🔗 https://github.com/Sebastian2nunez/Prediccion-Precios-Inmobiliarios-de-la-Region-Valparaiso
 
 ---
 
