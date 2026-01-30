@@ -73,11 +73,11 @@ Proyecto de análisis exploratorio orientado a negocio.
 - Visualización de tendencias  
 - Extracción de insights
 
-🔗 https://github.com/Sebastian2nunez/Ventas
+🔗 https://github.com/Sebastian2nunez/Automatizacion-y-Dashboard-Via-Uno
 
 ---
 
 ## 📬 Contacto
-- LinkedIn: *(agrega tu enlace aquí)*  
-- Email: *(opcional)*
+- LinkedIn: *linkedin.com/in/sebastián-mauricio-núñez*  
+- Email: *sebastian.mauricio.nunez@gmail.com*
 
