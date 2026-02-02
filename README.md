@@ -1,4 +1,4 @@
-# 👨‍🔬 Hola, soy Sebastián Núñez
+# Hola, soy Sebastián Núñez 👨‍🔬
 
 🎓 **Licenciado en Física**  
 📊 **Data Scientist | Machine Learning**  
