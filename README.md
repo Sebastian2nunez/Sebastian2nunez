@@ -9,7 +9,7 @@ Me interesa aplicar métodos cuantitativos rigurosos a **problemas reales**, tan
 
 ---
 
-## 🔬 Áreas de interés
+## Áreas de interés
 - Ciencia de Datos & Machine Learning  
 - Modelamiento estadístico y regresión  
 - Series de tiempo y forecasting  
@@ -18,7 +18,7 @@ Me interesa aplicar métodos cuantitativos rigurosos a **problemas reales**, tan
 
 ---
 
-## 🛠️ Habilidades técnicas
+## Habilidades técnicas
 
 **Lenguajes y herramientas**
 - Python (pandas, numpy, scipy)  
@@ -44,7 +44,7 @@ Me interesa aplicar métodos cuantitativos rigurosos a **problemas reales**, tan
 
 ## 📌 Proyectos destacados
 
-### 🏠 Predicción de Precios Inmobiliarios — Región de Valparaíso
+### Predicción de Precios Inmobiliarios — Región de Valparaíso
 Sistema de ML para predicción de precios inmobiliarios usando datos obtenidos por web scraping.
 
 - Pipeline completo: scraping → limpieza → features → modelado  
@@ -55,7 +55,7 @@ Sistema de ML para predicción de precios inmobiliarios usando datos obtenidos p
 
 ---
 
-### 🔬 Calibración de Sensor Fotodiodo mediante Regresión No Lineal
+### Calibración de Sensor Fotodiodo mediante Regresión No Lineal
 Proyecto de calibración experimental combinando física y modelamiento estadístico.
 
 - Regresión no lineal aplicada a datos experimentales  
@@ -66,7 +66,7 @@ Proyecto de calibración experimental combinando física y modelamiento estadís
 
 ---
 
-### 📊 Análisis de Datos de Ventas
+### Análisis de Datos de Ventas
 Proyecto de análisis exploratorio orientado a negocio.
 
 - Limpieza de datos  
