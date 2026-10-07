@@ -10,12 +10,13 @@ Plantilla para trabajar con Cline y un modelo local.
 5. Copia el `.clinerules` de esta carpeta a la raíz del proyecto.
 
 ## 2. Preparar `docs/` (poco material, para no gastar contexto)
-Crea `docs/` en la raíz del proyecto y copia dentro:
-- Las guías de **Getting Started** y de **Commands** de la documentación de Fabric para 1.21.1 (están en el repo `FabricMC/fabric-docs`; busca la versión correcta).
-- Los ejemplos relacionados de la carpeta `reference` de ese repo, en `docs/reference/`.
-- Al principio de cada archivo, una línea que diga qué nombres usa ("nombres de clase en Yarn" o "en Mojang").
+Copia la carpeta `docs/` de este kit a la raíz de tu proyecto del mod. Contiene:
+- `00-mappings.md`: tabla Yarn → Mojang con los nombres confirmados en el código de referencia.
+- `ExampleMod.java` y `ExampleModCommands.java`: ejemplos oficiales de fabric-docs (`reference/1.21.1`, Mojang mappings), recortados a lo mínimo.
 
-Con 3 a 5 archivos pequeños basta.
+Son unos 1.500 tokens en total. Si necesitas más (objetos, bloques...), copia solo los archivos de `reference/1.21.1/src/main/java/com/example/docs/` que hagan falta y ponles la cabecera `Versión... · Nombres de clase: MOJANG`.
+
+No copies la guía en Markdown de `versions/1.21.1/develop/...`: usa nombres de Yarn en el texto y no incluye el código (lo importa desde `reference`).
 
 ## 3. Primera prueba en Cline
 Empieza en modo **Plan**, y luego pasa a **Act**:
