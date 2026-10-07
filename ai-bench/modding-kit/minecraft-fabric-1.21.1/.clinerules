@@ -1,7 +1,7 @@
 # Proyecto: mod de Minecraft Java 1.21.1 con Fabric y mappings de Mojang
 
 ## Entorno
-- Minecraft 1.21.1, Fabric Loader + Fabric API, Java 21.
+- Minecraft 1.21.1, Fabric Loader + Fabric API. Gradle (Loom 1.18) necesita JDK 25 para ejecutarse. No cambies versiones de Java, Loom, Gradle ni de Fabric: ya vienen fijadas por la plantilla.
 - Mappings: **Mojang (oficiales)**. Usa SIEMPRE los nombres de clase de Mojang. Los nombres de Yarn están prohibidos.
 - Compilar: `./gradlew build`. Probar en el juego: `./gradlew runClient`.
 

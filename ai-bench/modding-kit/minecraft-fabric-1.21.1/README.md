@@ -3,7 +3,7 @@
 Plantilla para trabajar con Cline y un modelo local.
 
 ## 1. Preparar el proyecto
-1. Instala **JDK 21**.
+1. Necesitas **JDK 25** para ejecutar Gradle: la plantilla actual usa Loom 1.18, que lo exige (con Java 21 falla con "requires at least JVM runtime version 25"). Si usas Java 21 para otras cosas, baja el JDK 25 en formato **.zip** (portable) desde adoptium.net, descomprímelo y úsalo solo en esa terminal con `export JAVA_HOME=...` y `export PATH="$JAVA_HOME/bin:$PATH"`.
 2. Genera la plantilla en https://fabricmc.net/develop/template eligiendo **1.21.1** y mappings **Mojang** (si no los ofrece, usa los que ofrezca y avisa en `docs/`).
 3. Comprueba que la plantilla compila: `./gradlew build` (la primera vez descarga mucho).
 4. En `build.gradle` suele aparecer algo como `loom.officialMojangMappings()` si usas Mojang. Confírmalo.
