@@ -1,0 +1,16 @@
+# Proyecto: mod de Minecraft Java 1.21.1 con Fabric y mappings de Mojang
+
+## Entorno
+- Minecraft 1.21.1, Fabric Loader + Fabric API, Java 21.
+- Mappings: **Mojang (oficiales)**. Usa SIEMPRE los nombres de clase de Mojang. Los nombres de Yarn están prohibidos.
+- Compilar: `./gradlew build`. Probar en el juego: `./gradlew runClient`.
+
+## Reglas de trabajo
+1. Antes de escribir código, lee los archivos de `docs/` que tengan que ver con la tarea. Copia los patrones de los ejemplos de `docs/reference/`.
+2. Usa SOLO clases, métodos y eventos que aparezcan en `docs/` o que ya existan en este proyecto. Si algo no aparece, di claramente que no lo sabes y pregunta; no lo inventes.
+3. Si un archivo de `docs/` indica que usa nombres de Yarn, tradúcelo a Mojang con cuidado y avísame de ello.
+4. Haz solo lo que se pide. No añadas funciones, comprobaciones ni casos límite que no se hayan pedido.
+5. Cambios pequeños: una tarea cada vez. Tras cada cambio, compila con `./gradlew build` y corrige los errores antes de seguir.
+6. Si un error de compilación menciona una clase o un método que no existe, no lo adivines: busca el nombre correcto en `docs/` o pregúntame.
+7. Piensa de forma breve. Cuando tengas una solución razonable, escríbela.
+8. Al terminar, resume en 3 líneas qué archivos has tocado y cómo probarlo en el juego.
